@@ -25,4 +25,4 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 Paul's version of Boot.dev's Notely app.
 
-![Test Badge](https://github.com/pauljaikaran/learn-cicd-typescript-starter/badge.svg)
+![Test Badge](https://github.com/pauljaikaran/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
